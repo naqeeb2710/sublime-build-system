@@ -1,0 +1,41 @@
+<snippet>
+	<content><![CDATA[
+// codeforces handle -> naqeeb27
+// codechef handle -> naqeeb2710
+
+
+#include <bits/stdc++.h>
+
+#define f first
+#define s second
+#define pb push_back
+#define mp make_pair
+#define vc vector<long long int>
+#define all(x) (x).begin(),(x).end()
+#define ll long long
+#define FAST ios_base :: sync_with_stdio (false); cin.tie (NULL)
+#define fo(i,n) for(int i=0;i<n;i++)
+#define FO(i,k,n) for(int i=k;i<n;i++)
+
+using namespace std;
+
+const ll M = 1e9 + 7;
+
+void solve(){
+    // code below
+    
+}
+
+int main(){
+     FAST;
+     int t=1;
+     cin>>t;
+     while(t--){
+        solve();
+        cout<<"\n";
+    }
+    return 0;  
+}
+]]></content>
+	
+</snippet>
